@@ -37,8 +37,7 @@ export default function Walkthrough({ navigation }) {
                             marginHorizontal: SIZES.padding * 0.8,
                         }}
                     >
-                        Connect easily with your family and friends over
-                        countries
+                        Connect easily with your chatter buddies securely
                     </Text>
 
                     <View style={{ width: '100%', alignItems: 'center' }}>

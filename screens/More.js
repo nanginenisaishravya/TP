@@ -53,7 +53,7 @@ const More = () => {
                         }}
                     >
                         <Text style={{ ...FONTS.h4, marginVertical: 6 }}>
-                            Almayra Zamzamy
+                            Alekhya Malla
                         </Text>
                         <Text style={{ ...FONTS.body3, color: COLORS.gray }}>
                             {' '}

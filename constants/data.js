@@ -3,7 +3,7 @@ import images from './images'
 export const contacts = [
     {
         id: '1',
-        userName: 'John Doe',
+        userName: 'Alekhya',
         userImg: images.user1,
         isOnline: false,
         lastSeen: '3 Days ago',
@@ -13,7 +13,7 @@ export const contacts = [
     },
     {
         id: '2',
-        userName: 'Marry Lio',
+        userName: 'Shravya',
         userImg: images.user2,
         isOnline: true,
         lastSeen: 'Online',
@@ -23,7 +23,7 @@ export const contacts = [
     },
     {
         id: '3',
-        userName: 'Lucia Mu',
+        userName: 'Mahathi',
         userImg: images.user3,
         isOnline: false,
         lastSeen: '2 weeks ago',
@@ -33,7 +33,7 @@ export const contacts = [
     },
     {
         id: '4',
-        userName: 'Raki Lili',
+        userName: 'Brian',
         userImg: images.user4,
         isOnline: true,
         lastSeen: 'Online',
@@ -43,7 +43,7 @@ export const contacts = [
     },
     {
         id: '5',
-        userName: 'Raki Devine',
+        userName: 'Veerendra',
         userImg: images.user5,
         isOnline: false,
         lastSeen: '5 days ago',
@@ -53,7 +53,7 @@ export const contacts = [
     },
     {
         id: '6',
-        userName: 'Aris Yup',
+        userName: 'Sneha',
         userImg: images.user6,
         isOnline: true,
         lastSeen: 'Online',
